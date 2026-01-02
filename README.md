@@ -22,15 +22,15 @@ This application visualizes how high-dimensional semantic search works by using 
 
 ### 1. Knowledge Base Management
 Manage your dataset or auto-generate semantic content using AI.
-![Knowledge Base](./screenshots/knowledge_base.png)
+![Knowledge Base](knowledge_base.png)
 
 ### 2. Vector Space Visualization
 Visual representation of high-dimensional embeddings projected into 2D space.
-![Vector Space](./screenshots/vector_space.png)
+![Vector Space](vector_space.png)
 
 ### 3. Semantic Search
 Execute natural language queries and analyze nearest neighbor results with engine insights.
-![Vector Search](./screenshots/vector_search.png)
+![Vector Search](vector_search.png)
 
 ## 🚀 Getting Started
 
