@@ -1,0 +1,5 @@
+{
+  "name": "FAISS Concept Playground",
+  "description": "An interactive demonstration of Vector Similarity Search concepts inspired by FAISS. Visualize high-dimensional semantic search using Gemini to simulate vector embeddings and nearest neighbor retrieval.",
+  "requestFramePermissions": []
+}
